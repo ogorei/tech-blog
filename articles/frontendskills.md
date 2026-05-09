@@ -2,7 +2,7 @@
 title: "フロントエンドやるなら知っておいた方がいいこと"
 emoji: "🌟"
 type: "idea"
-topics: ["react", "HTML", "Javascript"]
+topics: ["react", "HTML", "Javascript","idea"]
 published: true
 ---
 フロントエンドエンジニアになってから7年経ちました！
